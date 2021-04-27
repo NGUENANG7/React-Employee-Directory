@@ -43,7 +43,6 @@ N/A
 ## Screen shots
 
 ![screenshot](public/picture 1.png)
-
 ![screenshot](public/picture 2.png)
 
 
