@@ -44,12 +44,12 @@ N/A
 
 
 
-![screenshot](public/picture 1.png)
+![screenshot](public/picture1.png)
 
 
 
 
-![screenshot](public/picture 2.png)
+![screenshot](public/picture2.png)
 
 
 
@@ -61,7 +61,6 @@ N/A
 Contributers for this project were:
 
 - Gregory Nguenang
-
 
 ## Tests
 
